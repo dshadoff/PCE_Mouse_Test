@@ -1,4 +1,4 @@
-# PCE_Mouse
+# PCE_Mouse_Test
 
 This is a quick test program I put together for PC Engine controllers/mouse.
 It is intended more as a proof-of-concept than as a final product.
