@@ -30,6 +30,7 @@ This program is intended to be compiled by HuC; I used an old version (v3.20) be
 it was handy, but it's a simple program and ought to be compilable by other versions.
 
 To compile, I used:
+
 ```huc -v pce_mouse.c```
 
 Note: The included ROM (pce_mouse.pce) has a header.
